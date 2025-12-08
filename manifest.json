@@ -1,0 +1,11 @@
+{
+  "name": "Chess Grandmaster Pro",
+  "short_name": "ChessPro",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#312e2b",
+  "theme_color": "#312e2b",
+  "icons": [
+    { "src": "https://cdn-icons-png.flaticon.com/512/3031/3031383.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
